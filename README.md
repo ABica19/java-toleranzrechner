@@ -27,7 +27,7 @@ The Toleranzrechner is a java-based application that allows users to input diffe
   <br>
    <li></li>
    <ul>
-    <li></strong></li>
+    <li></li>
   </ul>
   <br>
   <li></li>
