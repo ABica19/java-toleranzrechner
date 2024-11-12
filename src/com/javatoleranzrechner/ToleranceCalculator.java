@@ -1,6 +1,10 @@
 public class ToleranceCalculator {
 
-    public void printResults(){
-        
+    public void showCalculatorMainMenu() {
+
     }
+    public void printResults() {
+
+    }
+
 }
